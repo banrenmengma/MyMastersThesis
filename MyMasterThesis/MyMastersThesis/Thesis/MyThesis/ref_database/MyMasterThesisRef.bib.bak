@@ -1,0 +1,107 @@
+% This file was created with JabRef 2.10.
+% Encoding: UTF8
+
+
+@Article{bohu2020introduction,
+  Title                    = {Introduction to cloud manufacturing},
+  Author                   = {Bohu, Li and Lin, Zhang and Xudong, Chai},
+  Journal                  = {ZTE Communications},
+  Year                     = {2020},
+  Number                   = {4},
+  Pages                    = {6--9},
+  Volume                   = {8},
+
+  File                     = {:D\:\\MyDocument\\MyMasterThesis\\MyMastersThesis\\Thesis\\MyThesis\\reference\\Introduction to Cloud Manufacturing.pdf:PDF},
+  Owner                    = {Benjamin Brown},
+  Timestamp                = {2020.10.14}
+}
+
+@Article{liu2019cloud,
+  Title                    = {Cloud manufacturing: key issues and future perspectives},
+  Author                   = {Liu, Yongkui and Wang, Lihui and Wang, Xi Vincent and Xu, Xun and Jiang, Pingyu},
+  Journal                  = {International Journal of Computer Integrated Manufacturing},
+  Year                     = {2019},
+  Number                   = {9},
+  Pages                    = {858--874},
+  Volume                   = {32},
+
+  File                     = {:D\:\\MyDocument\\MyMasterThesis\\MyMastersThesis\\Thesis\\MyThesis\\reference\\Cloud manufacturing key issues and future perspectives.pdf:PDF},
+  Owner                    = {Benjamin Brown},
+  Publisher                = {Taylor \& Francis},
+  Timestamp                = {2020.10.14}
+}
+
+@Article{mourad2020assessment,
+  Title                    = {Assessment of interoperability in cloud manufacturing},
+  Author                   = {Mourad, Mohamed H and Nassehi, Aydin and Schaefer, Dirk and Newman, Stephen T},
+  Journal                  = {Robotics and Computer-Integrated Manufacturing},
+  Year                     = {2020},
+  Pages                    = {101832},
+  Volume                   = {61},
+
+  File                     = {:D\:\\MyDocument\\MyMasterThesis\\MyMastersThesis\\Thesis\\MyThesis\\reference\\Assessment of interoperability in cloud manufacturing.pdf:PDF},
+  Owner                    = {Benjamin Brown},
+  Publisher                = {Elsevier},
+  Timestamp                = {2020.10.14}
+}
+
+@Article{魏巍2020基于云制造的产品协同设计平台架构研究,
+  Title                    = {基于云制造的产品协同设计平台架构研究},
+  Author                   = {魏巍 and 王宇飞 and 陶永},
+  Journal                  = {中国工程科学},
+  Year                     = {2020},
+  Number                   = {4},
+  Volume                   = {22},
+
+  File                     = {:D\:\\MyDocument\\MyMasterThesis\\MyMastersThesis\\Thesis\\MyThesis\\reference\\基于云制造的产品协同设计平台架构研究.pdf:PDF},
+  Owner                    = {Benjamin Brown},
+  Timestamp                = {2020.10.14}
+}
+
+@Article{赵道致2017考虑主体心理预期的云制造资源双边匹配机制,
+  Title                    = {考虑主体心理预期的云制造资源双边匹配机制},
+  Author                   = {赵道致 and 李锐},
+  Journal                  = {控制与决策},
+  Year                     = {2017},
+  Number                   = {5},
+  Pages                    = {871--878},
+  Volume                   = {32},
+
+  File                     = {:D\:\\MyDocument\\MyMasterThesis\\MyMastersThesis\\Thesis\\MyThesis\\reference\\考虑主体心理预期的云制造资源双边匹配机制.pdf:PDF},
+  Owner                    = {Benjamin Brown},
+  Timestamp                = {2020.10.14}
+}
+
+@Article{周龙飞2017云制造调度问题研究综述,
+  Title                    = {云制造调度问题研究综述},
+  Author                   = {周龙飞 and 张霖 and 刘永奎},
+  Journal                  = {计算机集成制造系统},
+  Year                     = {2017},
+  Number                   = {6},
+  Pages                    = {1147--1166},
+
+  File                     = {:D\:\\MyDocument\\MyMasterThesis\\MyMastersThesis\\Thesis\\MyThesis\\reference\\云制造调度问题研究综述.pdf:PDF},
+  Owner                    = {Benjamin Brown},
+  Timestamp                = {2020.10.14}
+}
+
+@MastersThesis{朱非凡2019云制造环境下资源动态调度研究,
+  Title                    = {云制造环境下资源动态调度研究},
+  Author                   = {朱非凡},
+  School                   = {长春工业大学},
+  Year                     = {2019},
+
+  File                     = {:D\:\\MyDocument\\MyMasterThesis\\MyMastersThesis\\Thesis\\MyThesis\\reference\\云制造环境下资源动态调度研究.pdf:PDF},
+  Owner                    = {Benjamin Brown},
+  Timestamp                = {2020.10.14}
+}
+
+@comment{jabref-meta: groupsversion:3;}
+
+@comment{jabref-meta: groupstree:
+0 AllEntriesGroup:;
+1 ExplicitGroup:MyMasterThesisRef\;0\;;
+2 ExplicitGroup:Cloud Manufacturing\;0\;bohu2020introduction\;liu2019c
+loud\;mourad2020assessment\;周龙飞2017云制造调度问题研究综述\;;
+}
+
